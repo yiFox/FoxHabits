@@ -10,7 +10,7 @@ body {
 
   height: 100vh;
 
-  background-image: linear-gradient(350deg, #1a4f62, #09090a 25%);
+  background-image: linear-gradient(350deg, #1d334e, #09090a 25%);
 }
 
 header {
@@ -99,7 +99,7 @@ input {
   width: 64px;
   height: 64px;
 
-  border: 2px solid #7ad8f8;
+  border: 2px solid #1bbcf2;
   border-radius: 8px;
 
   background: #18181b;
@@ -107,7 +107,7 @@ input {
 
 input:checked {
   background: #1bbcf2;
-  border: 2px solid #7ad8f8;
+  border: 2px solid #89d3eb;
 }
 
 @media (max-width: 570px) {
