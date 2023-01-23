@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](yifox.github.io/FoxHabits/)
+- [Visite o projeto online](https://yifox.github.io/FoxHabits/)
 
 ## 🔖 Layout
 
